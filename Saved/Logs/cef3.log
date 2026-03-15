@@ -1,0 +1,9 @@
+[47948:41776:0315/141858.058:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[47948:48604:0315/141858.128:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[47948:41776:0315/141858.176:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[43496:47548:0315/141910.594:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-DE20EC120121551A6245C4985783CD71 will be ignored
+[39836:26332:0315/141911.610:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[39836:26332:0315/141911.945:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[39836:26332:0315/141921.050:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[39836:26332:0315/141928.738:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[47948:41776:0315/143802.149:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
